@@ -1,0 +1,6 @@
+{
+	"ImportPath": "RestApiProject",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": []
+}
